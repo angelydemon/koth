@@ -2,14 +2,6 @@
 <configuration>
     <configSections>
     </configSections>
-    <connectionStrings>
-        <add name="Estadistic.Properties.Settings.kothConnectionString"
-            connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=&quot;C:\Users\Mamen\Documents\Visual Studio 2013\Projects\EstadisticasKoth\Datos\BBDD\koth.mdf&quot;;Integrated Security=True"
-            providerName="System.Data.SqlClient" />
-        <add name="Estadisticas.Properties.Settings.EstadisticasKothConnectionString"
-            connectionString="Data Source=EstadisticasKoth.mssql.somee.com;Initial Catalog=EstadisticasKoth;Persist Security Info=True;User ID=angelydemon_SQLLogin_1;Password=vvzbxv86p1"
-            providerName="System.Data.SqlClient" />
-    </connectionStrings>
     <startup> 
         <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1" />
     </startup>
